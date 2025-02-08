@@ -15,4 +15,4 @@ Personally, I use FL Studio (a DAW).
 
 Hopefully this helps :) 
 
-https://github.com/BubtwnMB/MTSDR/blob/main/Screenshots/mtsdrExample.png
+![Example](https://github.com/BubtwnMB/MTSDR/blob/main/Screenshots/mtsdrExample.png)
