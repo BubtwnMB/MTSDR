@@ -1,4 +1,4 @@
-# MTSDR _ `MIDI To Song (for Drums Rock)`
+# MTSDR.zip _ `MIDI To Song (for Drums Rock)`
 ### (Feb 2025) This program was Created with GameMaker by BubtwnMB (u/AsideBig2747) 
 #### This was made with the help of Garage 51's instructions: https://garage51.es/drumsrock/custom_songs.html
 ***
