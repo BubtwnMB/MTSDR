@@ -4,4 +4,4 @@
 
 *(7/29/25 - 8:57 pm)*
 
-![\[XE\]](https://github.com/BubtwnMB/MTSDR/blob/main/youwillseeme.png)
+![\[XE\] \[XE\]](https://github.com/BubtwnMB/MTSDR/blob/main/whydoesthatevenmatter.png)
